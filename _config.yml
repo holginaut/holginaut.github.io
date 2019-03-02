@@ -16,6 +16,7 @@ defaults:
       layout: "post"
 
 topics:
+
   - name: Awesome Lists
     web_url: https://github.com/topics/awesome
     image_url: https://raw.githubusercontent.com/github/explore/c304601f028774885ef27f72e6fe2d331729d8bc/topics/awesome/awesome.png
