@@ -102,7 +102,6 @@ topics:
 
   - name: CakePHP
     web_url: https://github.com/cakephp/cakephp
-    image_url: 
 
   - name: C++
     web_url: https://github.com/topics/cpp
